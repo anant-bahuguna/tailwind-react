@@ -47,4 +47,6 @@
   import './assets/main.css'
   ```
   
-# React & Tailwind Setup Complete ✔️
+## React & Tailwind Setup Complete ✔️
+
+[Source ℹ️](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
